@@ -5,7 +5,8 @@ Functionality:
 
 Press space to start rounds/ reset when somebody wins
 
-Blue moves using wasd
-Red moves using arrows
+-Blue moves using wasd
+
+-Red moves using arrows
 
 Get 6 points to win.
