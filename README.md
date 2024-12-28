@@ -1,4 +1,4 @@
-Its a simple Pong like game created entirely inside MASM32 Editor.
+Its a simple Pong like game for 2 players, created entirely inside MASM32 Editor.
 
 
 
