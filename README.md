@@ -1,16 +1,24 @@
-<p align="center">
-  It's a simple Pong-like game for 2 players, created entirely inside MASM32 Editor.
-</p>
+# Ping Bonk
+
+A simple Pong-like game for 2 players, created entirely inside the <strong>MASM32 Editor</strong>.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cc49e494-5445-4bf0-86b9-3b4c7243d621" alt="img2" />
+  <img src="https://github.com/user-attachments/assets/cc49e494-5445-4bf0-86b9-3b4c7243d621" alt="Bonk_img"/>
 </p>
 
-<p align="center"><strong>Functionality:</strong></p>
+---
 
-<p align="center">
-  Press space to start rounds / reset when somebody wins<br><br>
-  - Blue moves using <code>WASD</code><br>
-  - Red moves using <code>Arrow keys</code><br><br>
-  Get 6 points to win.
-</p>
+## Gameplay & Controls
+
+Press <code>Space</code> to start a round or reset after a player wins.<br><br>
+
+<strong>Player 1 (Blue):</strong> Use `WASD`<br>
+<strong>Player 2 (Red):</strong> Use <code>Arrow keys</code><br><br>
+
+First to score <strong>6 points</strong> wins the match.
+
+
+---
+
+> *The game was created as a **college assignment** for an assembly programming class.*
+
